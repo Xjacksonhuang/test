@@ -1,1 +1,0 @@
-This is Version 3.0, date 2022-05-07
